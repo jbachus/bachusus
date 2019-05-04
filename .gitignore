@@ -5,6 +5,7 @@
 .pygments-cache
 _deploy
 public
+s3_website.yml
 sass.old
 source.old
 source/_stash
